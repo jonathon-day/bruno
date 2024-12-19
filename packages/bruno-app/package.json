@@ -1,7 +1,7 @@
 {
   "name": "@usebruno/app",
   "version": "0.3.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "rsbuild dev",
     "build": "rsbuild build -m production",
